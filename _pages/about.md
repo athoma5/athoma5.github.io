@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 ---
-# About Me
 
 ## Education
 
@@ -26,4 +25,4 @@ I then decided to pursue further education in the field of economics and earned 
 
 I subsequently undertook a program of study at George Mason University, where I received a PhD in Economics. I was funded in my studies in recognition of academic excellence, and during my time as a graduate assistant I taught classes and assisted in research that has been published in academic journals. My [research interests](/_pages/research.md) include industrial organization, development, and economic history. 
 
-Outside of my academic pursuits, I enjoy hiking, board games, and recently learning to play chess. These activities allow me to take a break from my research and explore new ways of thinking and problem-solving.
+Outside of my academic pursuits, I enjoy hiking, board games, and most recently learning to play chess. These activities allow me to take a break from my research and explore new ways of thinking and problem-solving.
