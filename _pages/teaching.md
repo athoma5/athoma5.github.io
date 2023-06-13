@@ -5,13 +5,13 @@ permalink: /teaching/
 Classes taught:
 
 ### **Intermediate Microeconomics**
-Syllabus
+[Syllabus](/assets/documents/ECON306.pdf)
 
 ### **Managerial Economics**
-Syllabus
+[Syllabus](/assets/documents/ECON308.pdf)
 
 ### **Economics of Developing Areas**
-Syllabus
+[Syllabus](/assets/documents/ECON360.pdf)
 
 ### **Topics in Economic History**
-Syllabus
+[Syllabus](/assets/documents/ECON365.pdf)

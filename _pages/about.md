@@ -1,7 +1,7 @@
 ---
+title: "About"
 permalink: /about/
 ---
-
 ## Education
 
 - PhD, Economics - George Mason University
@@ -14,7 +14,7 @@ permalink: /about/
 - Data wrangling & visualization
 - Geographic Information Services & spatial economics
 - Econometrics (causal inference, time series)
-- Text analysis 
+
 
 ## Background
 As an economist, I am dedicated to using data-driven analysis and economic theory to frame and answer questions in the social world. My path to becoming an economist was not straightforward, but my diverse background and experiences have equipped me with a unique perspective and skillset.
